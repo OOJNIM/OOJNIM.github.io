@@ -67,7 +67,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-instagram: minjooseo18
+instagram: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiroOHInriMAxUvwjgGHa9YIYcQFnoECA8QAQ&url=https%3A%2F%2Fwww.instagram.com%2Fminjooseo18%2F&usg=AOvVaw0GpDBk9Rtu2b5rdE00JdgX&opi=89978449"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -89,7 +89,7 @@ instagram: minjooseo18
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -152,17 +152,17 @@ keywords: "university,koreauniversity,southkorea,seoul, french, english, korean,
 # footer-link-col: "#404040"
 # footer-hover-col: "#0085A1"
 
-page-col: "#FFF0F5"          /* LavenderBlush – 연한 핑크 바탕 */
-text-col: "#5C3A4D"          /* Deep mauve text – 잘 보이면서도 부드러운 느낌 */
-link-col: "#D883A3"          /* 핑크빛 링크 색상 */
-hover-col: "#C77090"         /* 링크 hover 시 더 진한 핑크 */
-navbar-col: "#FDEEF4"        /* 옅은 로즈빛 내비게이션 바 배경 */
-navbar-text-col: "#5C3A4D"   /* 내비 텍스트는 본문과 톤 맞춤 */
-navbar-border-col: "#F5CED8" /* 부드러운 경계선 */
-footer-col: "#FDEEF4"        /* 내비게이션과 통일된 밝은 핑크 */
-footer-text-col: "#A17887"   /* 중간 밝기의 텍스트 */
-footer-link-col: "#5C3A4D"   /* 본문과 동일하게 */
-footer-hover-col: "#C77090"  /* hover 시 통일감 있는 포인트 핑크 */
+page-col: "#FFF0F5"          
+text-col: "#5C3A4D"          
+link-col: "#D883A3"          
+hover-col: "#C77090"         
+navbar-col: "#FDEEF4"        
+navbar-text-col: "#5C3A4D"   
+navbar-border-col: "#F5CED8" 
+footer-col: "#FDEEF4"        
+footer-text-col: "#A17887"   
+footer-link-col: "#5C3A4D"   
+footer-hover-col: "#C77090"  
 
 
 # Alternatively, the navbar, footer, and page background can be set to an image
