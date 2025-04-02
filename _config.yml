@@ -53,6 +53,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "purplesmj@naver.com"
+  instagram: "minjooseo18"
 
  # facebook: deanattali
   github: "OOJNIM"
@@ -67,7 +68,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-instagram: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiroOHInriMAxUvwjgGHa9YIYcQFnoECA8QAQ&url=https%3A%2F%2Fwww.instagram.com%2Fminjooseo18%2F&usg=AOvVaw0GpDBk9Rtu2b5rdE00JdgX&opi=89978449"
+
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -139,18 +140,6 @@ keywords: "university,koreauniversity,southkorea,seoul, french, english, korean,
 ######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
-
-# page-col: "#FFFFFF"
-# text-col: "#404040"
-# link-col: "#008AFF"
-# hover-col: "#0085A1"
-# navbar-col: "#EAEAEA"
-# navbar-text-col: "#404040"
-# navbar-border-col: "#DDDDDD"
-# footer-col: "#EAEAEA"
-# footer-text-col: "#777777"
-# footer-link-col: "#404040"
-# footer-hover-col: "#0085A1"
 
 page-col: "#FFF0F5"          
 text-col: "#5C3A4D"          
