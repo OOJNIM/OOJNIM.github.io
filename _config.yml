@@ -53,20 +53,20 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "purplesmj@naver.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+ # rss: true  # remove this line if you don't want to show an RSS link at the bottom
  # facebook: deanattali
-  github: "https://github.com/OOJNIM"
+github: "https://github.com/OOJNIM"
  # twitter: daattali
  # patreon: DeanAttali
  # youtube: "@daattali"
  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+linkedin:"https://www.linkedin.com/in/%EB%AF%BC%EC%A3%BC-%EC%84%9C-88b37b296/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+instagram: minjooseo18
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -99,12 +99,13 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
+  instagram : true
   vk: false
   reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
