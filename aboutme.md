@@ -3,19 +3,48 @@ layout: page
 title: About me
 subtitle: C'est un plaisir de vous accueillir :) 
 ---
+Hi! This is Joomin publishing and I'm the founder Minjoo! 
 
-Hi! I'm Minjoo Seo :)
-I’m a third-year student at Korea University 🐯, majoring in French Language & Literature and Information Security.
-I’m part of GBGB (our French club!) and the KU Literature Club.
+## Education
 
-I speak Korean, English, and French 🇰🇷 🇺🇸 🇫🇷
-I love reading, watching films, coding just for fun, and café-hopping around Seoul ☕📚💻
+### Korea University (Seoul, South Korea)  
+**Bachelor’s Degree in French Language and Linguistics & Information Security**  
+*2022 – Present*  
 
-Right now, I’m interning at Michelin Korea. 
+### Daeil Foreign Language High School  
+**French Major**  
+*2019 – 2021*
 
-### A bit about my journey
-I graduated from Daeil Foreign Language High School, where I first started learning French.
-For the KSAT, I studied Geometry, Life Science, and Earth Science (yep, very sciencey 😂).
-Still, I came back to French in college—guess I just really love the language!
+---
 
-I enjoy diving into new topics and being surrounded by curious, creative people. Let’s connect!
+## Languages
+
+- **Korean**: Native  
+- **English**: Proficient  
+- **French**: Conversational
+
+---
+
+## Work Experience 
+### Michelin Korea 
+*Dec 23 2024 - present* 
+- Project : Decarbonization of Michelin Korea's logistic operations strategy
+- Project : Market Analysis of Tire REcycling and Pyrolysis Technology in South Korea
+
+---
+## Extracurricular activities 
+### KU global leadership program - UK
+*Jun 29 2024 - Jul 13 2024*
+The university of leeds / attended courses : natural sciences, global challenges and scientific skills
+
+### KU women's lacrosse team
+*Mar 01 2023 - Feb 02 2024*
+captain & player 
+
+### KU social service organization 
+*Dec 01 2022 - Nov 30 2023*
+served as a volunteer project manager (146 volunteer hours) 
+Reviving small school project (Leader) / Uzbekistan Ecosystem Restoration conference etc... 
+
+
+
