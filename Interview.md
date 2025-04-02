@@ -1,2 +1,2 @@
 Interview Lists 
-- [2025년에 불문학을 전공한다는 것] (#)
+- [2025년에 불문학을 전공한다는 것] (#Being-a-French-Literature-Major-in2025)
