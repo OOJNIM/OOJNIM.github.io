@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Minjoo Seo 
+title: Joomin publishing
 
 # Your name to show in the footer
 author: Minjoo Seo
@@ -21,11 +21,11 @@ author: Minjoo Seo
 
 navbar-links:
   About Me: "aboutme"
-  French : "https://blog.naver.com/minjoooooo0"
-  Web Dev : "https://blog.naver.com/minjoooooo0"
-  Korea Univ : 
-    - GBGB :  "https://blog.naver.com/minjoooooo0"
-    - ku literature club : "https://blog.naver.com/minjoooooo0"
+  Interview : "Interview"
+  Reading in Seoul : "Reading in Seoul"
+  #Korea Univ : 
+   # - GBGB :  "https://blog.naver.com/minjoooooo0"
+    #- ku literature club : "https://blog.naver.com/minjoooooo0"
   
 
 ################
