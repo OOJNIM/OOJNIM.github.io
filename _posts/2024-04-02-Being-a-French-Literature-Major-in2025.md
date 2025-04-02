@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Being a  French major in 2025
