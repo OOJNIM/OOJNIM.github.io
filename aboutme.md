@@ -1,15 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Avec plaisir 
+subtitle: C'est un plaisir de vous accueillir :) 
 ---
 
-My name is Minjoo Seo. I have the following qualities:
+Hi! I'm Minjoo Seo :)
+I’m a third-year student at Korea University 🐯, majoring in French Language & Literature and Information Security.
+I’m part of GBGB (our French club!) and the KU Literature Club.
 
-- I love reading
+I speak Korean, English, and French 🇰🇷 🇺🇸 🇫🇷
+I love reading, watching films, coding just for fun, and café-hopping around Seoul ☕📚💻
 
-What else do you need?
+Right now, I’m interning at Michelin Korea. 
 
-### My story
+### A bit about my journey
+I graduated from Daeil Foreign Language High School, where I first started learning French.
+For the KSAT, I studied Geometry, Life Science, and Earth Science (yep, very sciencey 😂).
+Still, I came back to French in college—guess I just really love the language!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I enjoy diving into new topics and being surrounded by curious, creative people. Let’s connect!
