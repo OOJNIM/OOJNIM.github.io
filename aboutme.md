@@ -36,14 +36,14 @@ French Major
 ---
 
 ## | Work Experience 
-- **Michelin Korea**
-*Dec 23 2024 - present* 
-  Project : Decarbonization of Michelin Korea's logistic operations strategy
+- **Michelin Korea**  
+*Dec 23 2024 - present*   
+  Project : Decarbonization of Michelin Korea's logistic operations strategy  
   Project : Market Analysis of Tire REcycling and Pyrolysis Technology in South Korea
 
 ---
 ## | Extracurricular activities 
-- **KU global leadership program - UK**
+- **KU global leadership program - UK**  
 *Jun 29 2024 - Jul 13 2024*  
 The university of leeds / attended courses : natural sciences, global challenges and scientific skills
 
