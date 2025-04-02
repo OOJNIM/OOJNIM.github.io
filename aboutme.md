@@ -3,9 +3,9 @@ layout: page
 title: About me
 subtitle: C'est un plaisir de vous accueillir :) 
 ---
-Hi! This is Joomin publishing and I'm the founder Minjoo! 
+Greetings from Joomin Publishing! I’m Minjoo, the founder.
 
-## Education
+## | Education
 
 ### Korea University (Seoul, South Korea)  
 **Bachelor’s Degree in French Language and Linguistics & Information Security**  
@@ -17,7 +17,7 @@ Hi! This is Joomin publishing and I'm the founder Minjoo!
 
 ---
 
-## Languages
+## | Languages
 
 - **Korean**: Native  
 - **English**: Proficient  
@@ -25,14 +25,14 @@ Hi! This is Joomin publishing and I'm the founder Minjoo!
 
 ---
 
-## Work Experience 
+## | Work Experience 
 ### Michelin Korea 
 *Dec 23 2024 - present* 
 - Project : Decarbonization of Michelin Korea's logistic operations strategy
 - Project : Market Analysis of Tire REcycling and Pyrolysis Technology in South Korea
 
 ---
-## Extracurricular activities 
+## | Extracurricular activities 
 ### KU global leadership program - UK
 *Jun 29 2024 - Jul 13 2024*
 The university of leeds / attended courses : natural sciences, global challenges and scientific skills
