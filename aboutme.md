@@ -38,8 +38,8 @@ French Major
 ## | Work Experience 
 - **Michelin Korea**
 *Dec 23 2024 - present* 
-- Project : Decarbonization of Michelin Korea's logistic operations strategy
-- Project : Market Analysis of Tire REcycling and Pyrolysis Technology in South Korea
+  Project : Decarbonization of Michelin Korea's logistic operations strategy
+  Project : Market Analysis of Tire REcycling and Pyrolysis Technology in South Korea
 
 ---
 ## | Extracurricular activities 
