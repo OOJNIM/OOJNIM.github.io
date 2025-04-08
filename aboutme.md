@@ -13,14 +13,14 @@ Joomin Publishing은 ‘Interview’와 ‘Reading in Seoul’이라는 두 가�
 Joomin Publishing에 방문해주셔서 정말 고마워요!
 
 ### 지금 나의 꿈 (2025ver.) 
-저는 현재 로스쿨 진학을 계획하고 있어요. 원래를 명확하지 않았는데 Yale law school의 교수님 논문을 하나 읽고 나서 확신이 들었습니다. 
-[Scientific Misinformation Is Criminalizing the Standard of Care for Transgender Youth](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2795567?guestAccessKey=b5437b44-673d-4f2e-a367-2bbda148cd27&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)
-혐오와 차별의 문제를 이렇게도 풀어낼 수 있구나! 하는 깨달음이 있었달까요... 
-마치 어떤 사람들은 누군가 '자신과 다르다, 다수와 다르다'라는 이유로 남에게 서슴없이 폭력적인 말을 내뱉곤 합니다. 
-자신이 다수에 속해있다는 것만으로 남에게 폭력을 행사할 권리가 주어졌다고 생각하는 것같아요. 
-그 문제를 당장 해결할 수는 없겠지만, 점진적으로 제가 영감을 받은 저 논문을 쓸 수 있는 능력을 갖추어가고 싶어요. 
-또 영향력을 가진 사람이 된 후에, 혐오와 차별의 대상이 되는 사람들 편에서 목소리를 내고, 힘을 쓸 수 있는 사람이 될 것입니다. 
-어떤 직업을 선택하더라도 이건 바뀌지 않는 방향성일 것임이 분명해요! 
+저는 현재 로스쿨 진학을 계획하고 있어요. 원래를 명확하지 않았는데 Yale law school의 교수님 논문을 하나 읽고 나서 확신이 들었습니다.   
+[Scientific Misinformation Is Criminalizing the Standard of Care for Transgender Youth](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2795567?guestAccessKey=b5437b44-673d-4f2e-a367-2bbda148cd27&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)  
+혐오와 차별의 문제를 이렇게도 풀어낼 수 있구나! 하는 깨달음이 있었달까요...   
+마치 어떤 사람들은 누군가 '자신과 다르다, 다수와 다르다'라는 이유로 남에게 서슴없이 폭력적인 말을 내뱉곤 합니다.   
+자신이 다수에 속해있다는 것만으로 남에게 폭력을 행사할 권리가 주어졌다고 생각하는 것같아요.   
+그 문제를 당장 해결할 수는 없겠지만, 점진적으로 제가 영감을 받은 저 논문을 쓸 수 있는 능력을 갖추어가고 싶어요.   
+또 영향력을 가진 사람이 된 후에, 혐오와 차별의 대상이 되는 사람들 편에서 목소리를 내고, 힘을 쓸 수 있는 사람이 될 것입니다.   
+어떤 직업을 선택하더라도 이건 바뀌지 않는 방향성일 것임이 분명해요!   
 
 
 
