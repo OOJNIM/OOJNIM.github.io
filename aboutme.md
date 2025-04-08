@@ -12,10 +12,10 @@ Joomin Publishing은 ‘Interview’와 ‘Reading in Seoul’이라는 두 가�
 ‘Reading in Seoul’에서는 서울에서 읽기 좋은 장소와 읽어볼 만한 책을 추천드릴게요.   
 Joomin Publishing에 방문해주셔서 정말 고마워요!
 
-### 지금 나의 꿈 (2025ver.) 
+### 지금 나의 꿈 주절주절 (2025ver.언제 지워지고 언제 추가되고 바뀔지 모릅니다. )
 저는 현재 로스쿨 진학을 계획하고 있어요. 원래를 명확하지 않았는데 Yale law school의 교수님 논문을 하나 읽고 나서 확신이 들었습니다.   
 [Scientific Misinformation Is Criminalizing the Standard of Care for Transgender Youth](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2795567?guestAccessKey=b5437b44-673d-4f2e-a367-2bbda148cd27&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)  
-혐오와 차별의 문제를 이렇게도 풀어낼 수 있구나! 하는 깨달음이 있었달까요...   
+혐오와 차별의 문제를 이렇게도 풀어낼 수 있구나! 하는 깨달음이 있었달까요... 우리 나라에서는 이런 논의가 될 수 조차 없죠. ㅎ 논의의 장에 꺼내는 것조차 우리나라에서는 어려울 것 같죠..  박상영 작가님이 인스타그램에서 '한국의 특산품은 차별과 혐오' 라는 말을 남기셨죠. 왜 다들 불행한 사회라 하면서 차별과 혐오를 멈추기는 싫어하는 걸까요.    
 아.. 근데 예일대 로스쿨 가고 싶은데, 능력이 안도...ㅐㅐㅐㅐ    
 그래도 예일대 로스쿨을 목표로 또 저만의 명확한 방향성을 가지고 살아가면 뭐 먹고 살 수 있는 사회인이 되겠죠. 예,
 미국 로스쿨 준비 찬찬히~ 해보고 있어요.  기회가 되면 내년쯤 준비 과정도 글이 정리해서 공유해볼게요!   
