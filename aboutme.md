@@ -17,7 +17,8 @@ Joomin Publishing에 방문해주셔서 정말 고마워요!
 [Scientific Misinformation Is Criminalizing the Standard of Care for Transgender Youth](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2795567?guestAccessKey=b5437b44-673d-4f2e-a367-2bbda148cd27&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)  
 혐오와 차별의 문제를 이렇게도 풀어낼 수 있구나! 하는 깨달음이 있었달까요...   
 아.. 근데 예일대 로스쿨 가고 싶은데, 능력이 안도...ㅐㅐㅐㅐ    
-그래도 예일대 로스쿨을 목표로 또 저만의 명확한 방향성을 가지고 살아가면 뭐 먹고 살 수 있는 사회인이 되겠죠. 예,  
+그래도 예일대 로스쿨을 목표로 또 저만의 명확한 방향성을 가지고 살아가면 뭐 먹고 살 수 있는 사회인이 되겠죠. 예,
+미국 로스쿨 준비 찬찬히~ 해보고 있어요.  기회가 되면 내년쯤 준비 과정도 글이 정리해서 공유해볼게요!   
 마치 어떤 사람들은 누군가 '자신과 다르다, 다수와 다르다'라는 이유로 남에게 서슴없이 폭력적인 말을 내뱉곤 합니다.   
 자신이 다수에 속해있다는 것만으로 남에게 폭력을 행사할 권리가 주어졌다고 생각하는 것같아요.   
 그 문제를 당장 해결할 수는 없겠지만, 점진적으로 제가 영감을 받은 저 논문을 쓸 수 있는 능력을 갖추어가고 싶어요.   
