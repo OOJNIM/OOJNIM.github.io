@@ -23,6 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Interview : "Interview"
   Reading in Seoul : "ReadinginSeoul"
+  Franciais : "Francais"
+  Coding : "Coding" 
   #Korea Univ : 
    # - GBGB :  "https://blog.naver.com/minjoooooo0"
     #- ku literature club : "https://blog.naver.com/minjoooooo0"
@@ -64,7 +66,7 @@ social-network-links:
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 
-#linkedin:"https://www.linkedin.com/in/%EB%AF%BC%EC%A3%BC-%EC%84%9C-88b37b296/"
+linkedin: "https://www.linkedin.com/in/%EB%AF%BC%EC%A3%BC-%EC%84%9C-88b37b296/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
